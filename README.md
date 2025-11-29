@@ -1,7 +1,8 @@
 # 🚗 BMW Car Sales Classification (2010–2024)
 
-This project predicts whether BMW Car sales classification in 2010-2024 is **High** or **Low**. 5 models were used in training and choosed best model for using as final model
-and implemented on **Streamlit**. 10 features used, **Model, Year, Region, Color, Fuel Type, Transmission, Engine Size(L), Mileage(KM), Price(USD), Sales Volume**.
+This project predicts whether BMW car sales between 2010–2024 will be **High** or **Low**.  
+A total of **5 Machine Learning models** were trained, and the **best-performing model (Random Forest)** was selected and implemented in a **Streamlit application**.  
+The model uses **10 features**: Model, Year, Region, Color, Fuel Type, Transmission, Engine Size (L), Mileage (KM), Price (USD), Sales Volume.
 
 
 ## 📌 Workflow

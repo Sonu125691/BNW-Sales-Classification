@@ -22,12 +22,10 @@ The model uses **10 features**: Model, Year, Region, Color, Fuel Type, Transmiss
 - Gaussian NB
 
 ## ▶️ Run the Project on Your Computer
-To run this project locally, use the following commands in your terminal:
-
+**To run this project locally, use the following commands in your terminal:**
 
 pip install -r requirements.txt
 
 streamlit run app.py
 
-
-These commands will install the required libraries and open the BMW Sales Classification app in your browser (running locally on your computer).
+**These commands will install the required libraries and open the BMW Sales Classification app in your browser (running locally on your computer).**
